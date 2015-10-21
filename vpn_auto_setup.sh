@@ -34,9 +34,9 @@ if [ "$(id -u)" != 0 ]; then
 fi
 
 # Please define your own values for those variables
-IPSEC_PSK=mY/&2,nCK4778)%
-VPN_USER=demerfo
-VPN_PASSWORD=$]84>7[xPM7?bL7
+IPSEC_PSK="mY/&2,nCK4778)%"
+VPN_USER="demerfo"
+VPN_PASSWORD="$]84>7[xPM7?bL7"
 
 # If you need multiple VPN users with different credentials,
 # please see: https://gist.github.com/hwdsl2/123b886f29f4c689f531
